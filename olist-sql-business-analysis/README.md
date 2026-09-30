@@ -94,7 +94,7 @@ Historically, several categories represented major contributors to marketplace r
 
 Customer and geographic analysis examined purchasing activity across Brazilian states and the frequency of repeat purchasing.
 
-<img width="982" height="1066" alt="image" src="https://github.com/user-attachments/assets/5fd4e6a3-b4a8-404d-a480-de5e2a73b4c7" />
+<img width="982" height="1076" alt="image" src="https://github.com/user-attachments/assets/5d3f23fe-0513-4a49-97b3-e860024f4e1a" />
 <img width="952" height="1218" alt="image" src="https://github.com/user-attachments/assets/f4dc306f-db85-49a8-97fd-5827a21a6c0f" />
 
 
