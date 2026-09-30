@@ -53,31 +53,36 @@ Provides a high-level view of current business performance, including key perfor
 
 Examines revenue performance over time and allows users to investigate changes across business dimensions.
 
-![Revenue Analysis](screenshots/revenue-analysis.png)
+<img width="2162" height="1220" alt="image" src="https://github.com/user-attachments/assets/820d2c95-4c6c-46ad-b808-83fa8be03ce1" />
+
 
 ### 3. Profit Analysis
 
 Provides visibility into profitability trends and helps identify differences in performance across products, markets, and other business segments.
 
-![Profit Analysis](screenshots/profit-analysis.png)
+<img width="2158" height="1218" alt="image" src="https://github.com/user-attachments/assets/a9c09a8a-03b1-4b18-b7f4-7d063fca098e" />
+
 
 ### 4. Product Analysis
 
 Analyzes product and category performance to identify leading products, contribution to overall results, and changes over time.
 
-![Product Analysis](screenshots/product-analysis.png)
+<img width="2158" height="1220" alt="image" src="https://github.com/user-attachments/assets/7d380d12-f9fb-4e9b-8d46-d6239fb45682" />
+
 
 ### 5. Geographic Analysis
 
 Examines business performance across geographic markets and sales locations.
 
-![Geographic Analysis](screenshots/geographic-analysis.png)
+<img width="2162" height="1220" alt="image" src="https://github.com/user-attachments/assets/2c7d8c9b-5fe8-4ad9-ad83-1738fa063461" />
+
 
 ### 6. Customer Analysis
 
 Explores customer purchasing behavior and customer segments to provide additional context behind overall business performance.
 
-![Customer Analysis](screenshots/customer-analysis.png)
+<img width="2162" height="1224" alt="image" src="https://github.com/user-attachments/assets/286d10e0-aa7e-4a90-ba8a-7626cdcd179b" />
+
 
 ---
 
